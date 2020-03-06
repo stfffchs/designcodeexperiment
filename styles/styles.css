@@ -78,10 +78,10 @@ body {
   }
 
   a{
-    font-size: 3rem;
-    writing-mode: vertical-lr;
+    font-size: 6rem;
     color: white;
     text-decoration: none;
+    position: relative;
   }
 
   a.hover{
