@@ -15,6 +15,7 @@ body {
     grid-template-columns: repeat(7, 8.3fr);
     grid-gap: 0;
     grid-row: 7;
+    
     }
 
 
@@ -88,9 +89,10 @@ body {
   /* -------------------------------------------------------------------------------- Typeface  */
   
   h1 {
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: 800;
     color: white;
+    padding-left: 1rem;
   }
 
   a{
@@ -100,18 +102,6 @@ body {
     position: relative;
   }
 
-  
-  h2 {font-size: 5.063rem;
-
-  }
-  
-  h3 {font-size: 3.375rem;}
-  
-  h4 {font-size: 2.25rem;}
-  
-  h5 {font-size: 1.5rem;}
-  
-  small, .text_small {font-size: 0.667rem;}
 
 
 
@@ -147,4 +137,6 @@ body {
 .black{
   background-color: black;
 }
+
+  /* -------------------------------------------------------------------------------- Glitch text effect  */
 
